@@ -1,0 +1,11 @@
+@import url("./estilos.css");
+* {
+ margin:0;
+ box-sizing:border-box;
+ padding:0;
+}
+
+.titulo{
+    color: var(--magenta)
+}
+
