@@ -3,3 +3,6 @@
 ## Integrantes:
 - Bryan Cueva
 - Daniel David
+
+
+>ANGEL VARGAS 
